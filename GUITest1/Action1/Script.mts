@@ -1,2 +1,3 @@
 ﻿Msgbox "Hello World !"
-Msgbox "Hi !"
+Msgbox "Hello aloke"
+Msgbox "Hw R u"
