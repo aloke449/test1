@@ -1,6 +1,3 @@
 ﻿Msgbox "Hello World !"
 Msgbox "Hello aloke"
-Msgbox "Hw R u ?"
-Msgbox "Its Afternoon."
-Msgbox "Day Good."
-Msgbox "Bad Day."
+Magbox "Hi Kumar !"
