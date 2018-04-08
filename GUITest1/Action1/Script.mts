@@ -1,3 +1,4 @@
 ﻿Msgbox "Hello World !"
 Msgbox "Hello aloke"
-Magbox "Hi Kumar !"
+Msgbox "Hi Kumar !"
+Msgbox "Helllllllo !"
